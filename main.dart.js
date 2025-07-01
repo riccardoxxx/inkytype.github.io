@@ -1,0 +1,1 @@
+// Simulated Dart JS code
